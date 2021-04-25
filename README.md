@@ -1,2 +1,2 @@
 # SensorandUserCommunicationService
-[![Build Status](https://travis-ci.com/BlendedGamesFramework/BG-SensorAndUserCommunicationService.svg?branch=master)](https://travis-ci.com/BlendedGamesFramework/BG-SensorAndUserCommunicationService)
+[![Build Status](https://travis-ci.com/BlendedGamesFramework/BG-SensorAndUserCommunicationService.svg?branch=master)](https://travis-ci.com/BlendedGamesFramework/BG-SensorAndUserCommunicationService)[![Coverage Status](https://coveralls.io/repos/github/BlendedGamesFramework/BG-SensorAndUserCommunicationService/badge.svg?branch=master)](https://coveralls.io/github/BlendedGamesFramework/BG-SensorAndUserCommunicationService?branch=master)
